@@ -14,6 +14,7 @@ bash inpaint_ckpt.sh
 ```
 * Scheduler is [DDIMScheduler](https://huggingface.co/docs/diffusers/api/schedulers/ddim)
 * Example images are from [Google TEDBench](https://github.com/imagic-editing/imagic-editing.github.io/tree/main/tedbench)
+* Hugging Face Diffusers has provided api for this paper, [see this](https://huggingface.co/docs/diffusers/main/en/api/pipelines/stable_diffusion/diffedit)
 ## Environment
 ```
 python == 3.9.12
