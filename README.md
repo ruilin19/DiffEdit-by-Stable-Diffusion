@@ -65,5 +65,7 @@ The following repository also provides the code implementation of this:
 * [aayushmnit/diffusion_playground](https://github.com/aayushmnit/diffusion_playground/blob/main/notebooks/4_DiffEdit_v4.ipynb)
 * [johnrobinsn/diffusion_experiments](https://github.com/johnrobinsn/diffusion_experiments/blob/main/DiffEdit.ipynb)
 * [daspartho/DiffEdit](https://github.com/daspartho/DiffEdit)
+## What's more
+if you have any questions, feel free to contact me with wangruilin.will@foxmail.com
 
 
